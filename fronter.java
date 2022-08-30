@@ -1,1 +1,0 @@
-//este documento se utilizara para elaborar el correspondiente fronter a del algoritmo.
