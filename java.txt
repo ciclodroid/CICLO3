@@ -1,3 +1,0 @@
-Compañeros este va a ser el archivo de texto bajo el cual estaremos interactuando en las siguientes semanas sobre las modificaciones o comentarios que se tendran en cuenta.
-
-la idea es que en este documento puedan plasmar todo aquello que se esta modificando dentro de el proyecto.
