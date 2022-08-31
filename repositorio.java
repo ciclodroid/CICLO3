@@ -1,3 +1,14 @@
-este es el primer cambio.
+public class repositorio {
+    
 
-segundo cambio realizado por pc negro
+    
+}
+
+
+aqui si puedo modificarlo
+
+
+modificacion hecha por el computador negro
+
+
+modificacion hecha por el computador import ja
