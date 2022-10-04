@@ -1,0 +1,9 @@
+CREATE SCHEMA IF NOT EXISTS `elcondor` DEFAULT CHARACTER SET UTF8 ;
+
+CREATE TABLE IF NOT EXISTS `cliente` (
+  `idCliente` INT NOT NULL,
+  `direccion` VARCHAR(120) NOT NULL,
+  `telefono` VARCHAR(15) NOT NULL,
+  `correo` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`idCliente`)
+) ENGINE = INNODB;
